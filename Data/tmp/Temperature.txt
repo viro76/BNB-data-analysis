@@ -1,0 +1,4 @@
+
+Temperature for all these Stations available here: 
+
+https://climexp.knmi.nl/getstations.cgi
